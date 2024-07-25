@@ -180,21 +180,12 @@ a:hover {
 }
 
 
-
-/* Position: Relative vs. Absolute
-
-position: relative:
-
-The element remains in the normal document flow.
-It's positioned relative to its normal position.
-Other elements act as if the element were in its normal position.
-Used when you want to create a positioning context for absolute children or make small adjustments without affecting other elements.
-
-
-position: absolute:
-
-The element is removed from the normal document flow.
-It's positioned relative to its nearest positioned ancestor (an ancestor with a position value other than static) or to the initial containing block if no positioned ancestor exists.
+.back{
+    text-align: center;
+    background-color: black;
+    font-size: larger;
+    padding: 0px;
+}
 Other elements act as if the absolutely positioned element doesn't exist.
 Used when you want to precisely position an element without regard to other elements. */
 
