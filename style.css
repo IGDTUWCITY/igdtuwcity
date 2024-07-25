@@ -46,7 +46,7 @@ p {
     margin-bottom: 30px;
 }
 
-button {
+a{  text-decoration: none;
     padding: 15px 30px;
     font-size: 18px;
     color: #918700; /* Neon Yellow */
@@ -58,10 +58,10 @@ button {
     margin-bottom: 20px;
 }
 
-button:hover {
+a:hover {
     background-color: #ffc107;
 }
 
-button:active {
+a:active {
     background-color: #ffa07a;
 }
