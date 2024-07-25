@@ -58,3 +58,8 @@ h1 {
     cursor: pointer;
     transform: scale(1.05);
 }
+a{
+    text-decoration: none;
+    color: rgb(3, 2, 2);
+    border-radius: 5px;
+}
