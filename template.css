@@ -185,8 +185,8 @@ a:hover {
     background-color: black;
     font-size: larger;
     padding: 0px;
+    text-decoration:none;
+    color:white;
 }
-Other elements act as if the absolutely positioned element doesn't exist.
-Used when you want to precisely position an element without regard to other elements. */
 
 
